@@ -23,3 +23,7 @@ Notes
 
 - `models/pipeline.pkl` and `models/feature_columns.pkl` are present in the repo — no extra download required.
 - If model files get large, consider using Git LFS or hosting them externally and downloading at startup.
+
+## Redeploy trigger
+
+This small change is a redeploy trigger. No functional changes.
